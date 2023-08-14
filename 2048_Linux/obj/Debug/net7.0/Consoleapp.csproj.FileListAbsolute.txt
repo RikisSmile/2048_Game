@@ -1,0 +1,15 @@
+/home/raima/repo/C#/Consoleapp/bin/Debug/net7.0/Consoleapp
+/home/raima/repo/C#/Consoleapp/bin/Debug/net7.0/Consoleapp.deps.json
+/home/raima/repo/C#/Consoleapp/bin/Debug/net7.0/Consoleapp.runtimeconfig.json
+/home/raima/repo/C#/Consoleapp/bin/Debug/net7.0/Consoleapp.dll
+/home/raima/repo/C#/Consoleapp/bin/Debug/net7.0/Consoleapp.pdb
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.csproj.AssemblyReference.cache
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.AssemblyInfoInputs.cache
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.AssemblyInfo.cs
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.csproj.CoreCompileInputs.cache
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.dll
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/refint/Consoleapp.dll
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.pdb
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/Consoleapp.genruntimeconfig.cache
+/home/raima/repo/C#/Consoleapp/obj/Debug/net7.0/ref/Consoleapp.dll
